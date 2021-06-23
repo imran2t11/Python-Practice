@@ -13,7 +13,7 @@ def is_password_valid(passwd):
     else:
         return True
 
-print(is_password_valid("S34sdderf"))  
+#print(is_password_valid("S34sdderf"))  
     
         
     
